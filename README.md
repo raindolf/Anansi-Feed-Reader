@@ -21,7 +21,7 @@ Cordova emulate android
 
 Anansi Feed Reader is released under GNU GENERAL PUBLIC LICENSE.
 
-#Credits:
+#Credits
 
 Aurelio De Rosa
 
